@@ -1,0 +1,20 @@
+.bg {
+  background-image: url("https://raw.githubusercontent.com/appbrewery/webdev/main/birthday-cake3.4.jpeg");
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1,
+h2,
+h3 {
+  text-align: center;
+}
+
+.wording {
+  margin: auto;
+  opacity: 0.9;
+}
