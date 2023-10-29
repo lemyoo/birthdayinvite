@@ -8,13 +8,25 @@
   background-size: cover;
 }
 
-h1,
-h2,
-h3 {
+/*h1,*/
+/* h2, */
+/*h3 {
+  text-align: center;
+}*/
+
+.wording {
+  /*margin: auto;*/
+  opacity: 0.9;
+}
+
+/*.mywords {
+  margin: auto;
   text-align: center;
 }
 
-.wording {
-  margin: auto;
-  opacity: 0.9;
-}
+.center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+} */
