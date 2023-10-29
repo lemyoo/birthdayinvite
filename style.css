@@ -22,8 +22,14 @@ h3 {
 }
 
 .mywords {
+  border-style: solid;
+  padding: 10px;
   margin: auto;
   text-align: center;
+
+  font-family: "Edu TAS Beginner", cursive;
+  font-size: larger;
+  font-weight: 700;
 }
 
 .center {
