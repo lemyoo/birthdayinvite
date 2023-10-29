@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Edu+TAS+Beginner:wght@400;700&display=swap");
+
 .bg {
   background-image: url("https://raw.githubusercontent.com/appbrewery/webdev/main/birthday-cake3.4.jpeg");
   height: 100%;
@@ -8,25 +10,25 @@
   background-size: cover;
 }
 
-/*h1,*/
-/* h2, */
-/*h3 {
+h1,
+h2,
+h3 {
   text-align: center;
-}*/
-
-.wording {
-  /*margin: auto;*/
-  opacity: 0.9;
 }
 
-/*.mywords {
+.wording {
+  margin: auto;
+  opacity: 0.8;
+}
+
+.mywords {
   margin: auto;
   text-align: center;
 }
 
 .center {
   position: absolute;
-  top: 50%;
+  top: 40%;
   left: 50%;
-  transform: translate(-50%, -50%);
-} */
+  transform: translate(-50%, -40%);
+}
